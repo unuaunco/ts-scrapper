@@ -1,9 +1,8 @@
-#Readme for Github project API
+#Readme for ts scrapper project
 
 Script for work with m8u8 file, to get .ts from url and build it to mp4
 
 Require ffmpeg binary
-
 
 Scripts:
 
